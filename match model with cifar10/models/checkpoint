@@ -1,0 +1,2 @@
+model_checkpoint_path: "alexnet_pruning_ckpt"
+all_model_checkpoint_paths: "alexnet_pruning_ckpt"
